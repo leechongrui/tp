@@ -62,6 +62,7 @@
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
         "deleting-a-person": "Deleting a person",
+        "paying-a-month-validation-cases": "Paying a month (validation cases)",
         "saving-data": "Saving data"
       },
       "headingKeywords": {}
@@ -102,11 +103,14 @@
         "viewing-help-help": "Viewing help : help",
         "adding-a-person-add": "Adding a person: add",
         "listing-all-persons-list": "Listing all persons : list",
+        "displaying-a-person-display": "Displaying a person: display",
         "editing-a-person-edit": "Editing a person : edit",
         "locating-students-and-tutors-by-name-find": "Locating students and tutors by name: find",
-        "marking-attendance-for-students-mark": "Marking attendance for students : mark",
-        "unmarking-attendance-for-students-unmark": "Unmarking attendance for students : unmark",
+        "mark": "Marking attendance for students : mark",
+        "unmark": "Unmarking attendance for students : unmark",
         "managing-payments-pay": "Managing payments : pay",
+        "managing-payments-unpay": "Managing payments : unpay",
+        "deleting-a-payment-record-delpay": "Deleting a payment record: delpay",
         "deleting-a-person-delete": "Deleting a person : delete",
         "clearing-all-entries-clear": "Clearing all entries : clear",
         "exiting-the-program-exit": "Exiting the program : exit",
@@ -122,7 +126,7 @@
       "src": "index.md",
       "title": "",
       "headings": {
-        "addressbook-level-3": "AddressBook Level-3"
+        "tutorpal": "TutorPal"
       },
       "headingKeywords": {}
     },
